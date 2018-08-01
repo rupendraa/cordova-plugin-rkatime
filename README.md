@@ -12,10 +12,13 @@ window.AppUpdate.getOtherInfo(onSuccess, onFail);  //return is_time_automatic_en
 
 
 function onSuccess(datax){
+
  if( !datax.is_time_automatic_enabled ){
    
    // == do somthing like this if setting is disable/off 
+   
  }
+ 
 }
  
  
