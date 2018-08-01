@@ -5,7 +5,7 @@
 
 check android setting autodatetime is on-off enable/disable
 
-ionic cordova plugin add https://github.com/rupendraa/cordova-plugin-rkatime
+cordova plugin add https://github.com/rupendraa/cordova-plugin-rkatime
 
 
 	window.AppUpdate.getOtherInfo(onSuccess, onFail);  //return is_time_automatic_enabled  = true/false
