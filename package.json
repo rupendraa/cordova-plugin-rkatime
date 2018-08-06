@@ -32,7 +32,7 @@
     "raw": "cordova-plugin-rkatime@^1.1.6",
     "scope": null,
     "escapedName": "cordova-plugin-rkatime",
-    "name": "cordova-plugin-device",
+    "name": "cordova-plugin-rkatime",
     "rawSpec": "^1.1.6",
     "spec": ">=1.1.6 <2.0.0",
     "type": "range"
